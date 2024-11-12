@@ -6,12 +6,12 @@ This is a small python project based on django, It's an online market where peop
 
 ## Install requirments 
 
-1- sudo apt install python3
-2- pip install django 
+- sudo apt install python3
+- pip install django 
 
 ## Getting started
 
-1- Clone the repository 
+- Clone the repository 
   - git clone https://https://github.com/Ahmed66500/puddle
-2- python3 manage.py runserver
+- python3 manage.py runserver
 
